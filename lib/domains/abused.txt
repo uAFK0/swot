@@ -1160,7 +1160,6 @@ etu.edu.tr
 harran.edu.tr
 isik.edu.tr
 kku.edu.tr
-kmu.edu.tr
 live.acibadem.edu.tr
 mail.baskent.edu.tr
 mail2.gantep.edu.tr
